@@ -38,7 +38,7 @@ exports.config = {
     coloredLogs: true,
     screenshotPath: "./screenshots/",
 
-    // baseUrl can be something like http://example.greentube.lan
+    // baseUrl can be something like http://www.example.com
     baseUrl: "",
 
     waitforTimeout: 10000,
