@@ -1,13 +1,24 @@
-# E2E WevdriverIO && Typescript Seed
+# WebdriverIO Testing Seed
+> WebdriverIO seed for future testing projects
 
-## 1.) Installation
+## Included
+ - WebdriverIO
+ - Typescript
+ - TSLint
+ - TSNode
+ - Jasmine
+ - Gulp
+ - Allure Reporting
+ - Custom config files for the local project and teamcity server
+
+## Installation
 
 **Make sure you have NodeJS installed (version 5+).**
 ```shell
 npm install
 ```
 
-## 3.) Run Tests
+## Run Tests
 
 **run all**
 ```shell
@@ -32,7 +43,7 @@ gulp wdio --env staging -> currently not fully supported because of https connec
 gulp wdio --suite yoursuite --env dev
 ```
 
-## 4.) WebdriverIO
+## WebdriverIO
 
 **API**
 
@@ -52,7 +63,7 @@ is a contributor and knows most probably whats going on!
 
 https://gitter.im/webdriverio/webdriverio
 
-## 5.) Testrail
+## Testrail
 This is the testrail repository for this project:
 
 https://testrail.gtoffice.lan/index.php?/suites/view/34&group_by=cases:section_id&group_order=asc
