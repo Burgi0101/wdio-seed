@@ -1,0 +1,29 @@
+{
+  "name": "e2e_tests_ts_seed",
+  "version": "1.1.0",
+  "description": "E2E Tests Seed",
+  "author": "Georg Burgstaller",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^2.5.41",
+    "@types/webdriverio": "^4.5.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-color": "0.0.1",
+    "gulp-webdriver": "^2.0.3",
+    "jasmine": "^2.5.3",
+    "request": "^2.79.0",
+    "selenium-standalone": "^5.11.0",
+    "ts-node": "^2.0.0",
+    "tslint": "^4.3.1",
+    "typescript": "^2.1.5",
+    "wdio-allure-addons-reporter": "0.0.4",
+    "wdio-allure-reporter": "^0.1.2",
+    "wdio-jasmine-framework": "^0.2.19",
+    "wdio-selenium-standalone-service": "0.0.7",
+    "wdio-spec-reporter": "0.0.5",
+    "wdio-teamcity-reporter": "^1.1.0",
+    "webdriverio": "^4.6.1",
+    "yargs": "^6.6.0"
+  }
+}
