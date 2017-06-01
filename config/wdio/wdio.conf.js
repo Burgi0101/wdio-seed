@@ -42,10 +42,6 @@ exports.config = {
 
     framework: "jasmine",
 
-    reporterOptions: {
-        outputDir: "./allure-report/"
-    },
-
     jasmineNodeOpts: {
         defaultTimeoutInterval: 90000
     },
