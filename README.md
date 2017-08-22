@@ -63,8 +63,3 @@ is a contributor and knows most probably whats going on!
 
 https://gitter.im/webdriverio/webdriverio
 
-## Testrail
-This is the testrail repository for this project:
-
-https://testrail.gtoffice.lan/index.php?/suites/view/34&group_by=cases:section_id&group_order=asc
-
